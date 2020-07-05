@@ -1,0 +1,1 @@
+# javatpoint-struts-prepare-interceptor
